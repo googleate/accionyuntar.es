@@ -1,7 +1,7 @@
 ---
 banner:
   title: El partido político<br> de la Democracia Real
-  image: "/images/protest-464616_960_720.jpg"
+  image: "/images/megaphone-1480342_960_720.webp"
   content: ''
   button:
     enable: true

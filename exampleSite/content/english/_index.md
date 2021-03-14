@@ -17,16 +17,16 @@ feature:
   - name: Empleo
     icon: ti-package
     content: Somos el país con mayor tasa desempleo de toda la UE
-  - name: 24h Service
+  - name: Educación
     icon: ti-alarm-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
+  - name: Empresas
     icon: ti-credit-card
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
+  - name: Pymes y Autónomos
     icon: ti-headphone-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
+  - name: Afiliados
     icon: ti-cloud-up
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:

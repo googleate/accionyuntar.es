@@ -9,14 +9,14 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Algo que necesitas saber
   feature_item:
-  - name: Clean Code
+  - name: Sanidad
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
+    content: La Sanidad Pública es de las peores de Europa
+  - name: Empleo
     icon: ti-package
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Somos el país con mayor tasa desempleo de toda la UE
   - name: 24h Service
     icon: ti-alarm-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil

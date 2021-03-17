@@ -1,6 +1,6 @@
 ---
 banner:
-  title: El partido político<br> de la Democracia Real
+  title: Cada voto<br> una queja
   image: "/images/megaphone-1480342_960_720.webp"
   content: ''
   button:

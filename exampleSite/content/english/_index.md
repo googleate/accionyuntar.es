@@ -8,7 +8,7 @@ banner:
     label: Afíliate!
     link: contact
 feature:
-  enable: true
+  enable: false
   title: Algo que necesitas saber
   feature_item:
   - name: Sanidad
@@ -83,7 +83,7 @@ service:
       label: Check it out
       link: "#"
 screenshot:
-  enable: false
+  enable: true
   title: Experience the best <br> workflow with us
   image: images/screenshot.svg
 call_to_action:
